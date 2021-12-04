@@ -6,9 +6,9 @@ layout: page
 ---
 
 <img style="float: right; margin: 0px 30px" src="images/72640582_10156770136617201_6628404907449778176_n.jpg" alt="Me" width="200"/>
-Hi there, welcome to my personal website! I recently got my PhD from Princeton University. I was advised by Professor [David Wentzlaff](http://www.princeton.edu/~wentzlaf/) in the field of Computer Engineering at the [Princeton Parallel Computing](http://parallel.princeton.edu) research group. I am now a postdoc in the [Lee Lab](https://lee.hms.harvard.edu/) at Harvard Medical School to understand the brain computation at the circuit level and its intersection with computer engineering research.
+Hi there, welcome to my personal website! I am currently a postdoc in the [Lee Lab](https://lee.hms.harvard.edu/) at Harvard Medical School seeking to understand how the brain computes at the circuit level and how to apply these findings to digital computers and machine learning. Previously I was advised by Professor [David Wentzlaff](http://www.princeton.edu/~wentzlaf/) in the [Parallel Computing](http://parallel.princeton.edu) research group and got my PhD from Princeton University in 2018. 
 
-## [Resume (12/2021)]({{site.url}}/assets/hms_resume.pdf)
+## [Resume (12/2021)](assets/hms_resume.pdf)
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@ Hi there, welcome to my personal website! I recently got my PhD from Princeton U
 
 ## Experiences
 
-<img style="float: left; margin: 0px 52px" src="{{site.url}}/assets/hms_logo.png" alt="Harvard Medical School" height="100"/>
+<img style="float: left; margin: 0px 52px" src="assets/hms_logo.png" alt="Harvard Medical School" height="100"/>
 
 **Harvard Medical School**  
 Boston, MA  
@@ -24,7 +24,7 @@ Boston, MA
 
 <br/>
 
-<img style="float: left; margin: 0px 15px" src="{{site.url}}/assets/hhmi_janelia_logo.png" alt="HHMI Janelia Farm" height="100"/>
+<img style="float: left; margin: 0px 15px" src="assets/hhmi_janelia_logo.png" alt="HHMI Janelia Farm" height="100"/>
 
 **HHMI Janelia Research Campus**  
 Ashburn, VA  
@@ -32,7 +32,7 @@ Ashburn, VA
 
 <br/>
 
-<img style="float: left; margin: 0px 55px" src="{{site.url}}/assets/princeton_shield.png" alt="Princeton University" height="100"/>
+<img style="float: left; margin: 0px 55px" src="assets/princeton_shield.png" alt="Princeton University" height="100"/>
 
 **Princeton University**  
 Princeton, NJ  
@@ -40,7 +40,7 @@ Princeton, NJ
 
 <br/>
 
-<img style="float: left; margin: 0px 27px" src="{{site.url}}/assets/nvidia_logo.jpg" alt="NVIDIA" height="100"/>
+<img style="float: left; margin: 0px 27px" src="assets/nvidia_logo.jpg" alt="NVIDIA" height="100"/>
 
 **NVIDIA Research**  
 Redmond, WA  
@@ -48,7 +48,7 @@ Redmond, WA
 
 <br/>
 
-<img style="float: left; margin: 0px 47px" src="{{site.url}}/assets/amd_logo.png" alt="AMD" height="100"/>
+<img style="float: left; margin: 0px 47px" src="assets/amd_logo.png" alt="AMD" height="100"/>
 
 **AMD Research**  
 Boxborough, MA  
@@ -56,7 +56,7 @@ Boxborough, MA
 
 <br/>
 
-<img style="float: left; margin: 0px 17px" src="{{site.url}}/assets/samsung_logo.png" alt="Samsung" height="52"/>
+<img style="float: left; margin: 0px 17px" src="assets/samsung_logo.png" alt="Samsung" height="52"/>
 
 **Samsung**  
 Giheung, South Korea  
