@@ -8,7 +8,7 @@ layout: page
 <img style="float: right; margin: 0px 30px" src="images/72640582_10156770136617201_6628404907449778176_n.jpg" alt="Me" width="200"/>
 Hi there, welcome to my personal website! I am currently a postdoc in the [Lee Lab](https://lee.hms.harvard.edu/) at Harvard Medical School seeking to understand how the brain computes at the circuit level and how to apply these findings to digital computers and machine learning. Previously I was advised by Professor [David Wentzlaff](http://www.princeton.edu/~wentzlaf/) in the [Parallel Computing](http://parallel.princeton.edu) research group and got my PhD from Princeton University in 2018. 
 
-## [Resume (12/2021)](https://www.dropbox.com/s/njznabyrc5q0frg/github_resume.pdf?dl=1)
+## [Resume (04/2022)](https://www.dropbox.com/s/njznabyrc5q0frg/github_resume.pdf?dl=1)
 
 <br/>
 <br/>
